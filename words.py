@@ -1,3 +1,3 @@
 
-print "Master Prevailed"
+print stitct Prevailed"
 
