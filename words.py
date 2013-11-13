@@ -1,3 +1,2 @@
-
-print stitct Prevailed"
+MASTER PREVAILS
 
